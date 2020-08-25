@@ -69,7 +69,7 @@ class ViewController: UIViewController {
                     
                     var havaDurumu = HavaDurumu(json: jsonResponse)
                     
-                    print(jsonResponse)
+                    
                     
                     DispatchQueue.main.async {
                         

@@ -94,7 +94,7 @@ class ViewController: UIViewController {
                             if self.sehir.text != ""{
                                 
                                 self.sonuc.text = "\(havaDurumu.derece)" + "°C" + "   " + "\(havaDurumu.aciklama)"
-                                //print(havaDurumu.aciklama)
+                                
                             }
 
                             
